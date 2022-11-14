@@ -1,5 +1,5 @@
 let myDiv = $('<div></div>');
-let myBody = $('#myBody');
+let myBody = $('Body');
 
 myBody.append(myDiv);
 myDiv.text('Click Here');
